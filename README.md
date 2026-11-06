@@ -131,7 +131,7 @@ In summary, the block diagram represents a digital PLL in which the receiver der
 
 ---
 
-## Block Diagram (Translated)
+## Block Diagram
 
 The signal-processing concept is summarized in the following block diagram, which shows the digital PLL structure used for symbol timing recovery of PSK signals.
 
