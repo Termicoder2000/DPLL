@@ -174,23 +174,6 @@ This architecture is the digital PLL structure used to reconstruct the symbol cl
 
 ---
 
-## Project Structure
-
-- `Multiplikative_Modulation/`
-  - Matlab and simulation files used to analyze multiplicative modulation and signal-processing behavior.
-
-- `Projekt_DS/`
-  - STM32 project for the embedded implementation on the STM32F7508-DK board.
-  - Contains C source code, HAL configuration files, and hardware project files.
-
-- `Blockschaltbild.png`
-  - Visual block diagram of the signal-processing chain.
-
-- `TEL20NT_DSV_Labor_Hepp_Nils_und_Papagno_Fabio_final.pdf`
-  - Final report or laboratory document for the project.
-
----
-
 ## Conclusion
 
 This project demonstrates the typical workflow of a practical signal-processing design:
