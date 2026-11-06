@@ -1,0 +1,14 @@
+../Core/Src/wm8994.c:1066:16:CODEC_IO_Write	16	static
+../Core/Src/wm8994.c:632:6:wm8994_DeInit	0	static
+../Core/Src/wm8994.c:643:10:wm8994_ReadID	8	static
+../Core/Src/wm8994.c:839:10:wm8994_SetMute	16	static
+../Core/Src/wm8994.c:657:10:wm8994_Play	0	static
+../Core/Src/wm8994.c:673:10:wm8994_Pause	16	static
+../Core/Src/wm8994.c:692:10:wm8994_Resume	0	static
+../Core/Src/wm8994.c:716:10:wm8994_Stop	24	static
+../Core/Src/wm8994.c:762:10:wm8994_SetVolume	40	static
+../Core/Src/wm8994.c:121:10:wm8994_Init	48	static
+../Core/Src/wm8994.c:874:10:wm8994_SetOutputMode	16	static
+../Core/Src/wm8994.c:961:10:wm8994_SetFrequency	8	static
+../Core/Src/wm8994.c:1021:10:wm8994_Reset	8	static
+../Core/Src/wm8994.c:1034:10:wm8994_CheckConfig	8	static

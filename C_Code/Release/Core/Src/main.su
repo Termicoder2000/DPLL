@@ -1,0 +1,16 @@
+../Core/Src/main.c:287:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:343:6:PeriphCommonClock_Config	144	static,ignoring_inline_asm
+../Core/Src/main.c:544:6:AUDIO_IO_Write	32	static
+../Core/Src/main.c:553:10:AUDIO_IO_Read	32	static
+../Core/Src/main.c:567:6:AUDIO_IO_Delay	0	static
+../Core/Src/main.c:571:6:HAL_SAI_TxHalfCpltCallback	0	static
+../Core/Src/main.c:577:6:HAL_SAI_TxCpltCallback	0	static
+../Core/Src/main.c:672:7:abs	0	static
+../Core/Src/main.c:677:7:conv_fir_2k_real	12	static
+../Core/Src/main.c:694:7:conv_fir_2k_imag	12	static
+../Core/Src/main.c:712:7:conv_fir_200_real	16	static
+../Core/Src/main.c:729:7:conv_fir_200_imag	16	static
+../Core/Src/main.c:747:7:conv_fir_upsample	12	static
+../Core/Src/main.c:583:7:pll	24	static
+../Core/Src/main.c:165:5:main	80	static,ignoring_inline_asm
+../Core/Src/main.c:770:6:Error_Handler	0	static,ignoring_inline_asm
